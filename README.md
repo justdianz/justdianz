@@ -30,6 +30,10 @@
 
 ---
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648eba0b779070ae62493939?variant=dark)](https://roadmap.sh)
+
+---
+
 Credit: [JustDianz](https://github.com/justdianz)
 
 Last edited on: 20/04/2023
